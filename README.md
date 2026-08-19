@@ -24,6 +24,8 @@ The dashboard connects with **Supabase** to fetch and manage sales data and pres
 * **CSS3** – Styling and responsive design
 * **JavaScript** – Dashboard logic and dynamic data handling
 * **Supabase** – Database and backend data management
+* **REST APIs** – Fetching and handling application data
+* **Postman** – API testing, request validation, and endpoint testing
 * **Charts & Visualizations** – Graphical representation of sales data
 
 ## 🏗️ Project Structure
